@@ -1,0 +1,6 @@
+/node_modules
+/truffle/node_modules
+/truffle/build
+/truffle/infura-api-key.txt
+/truffle/private-key-mainnet.txt
+/truffle/private-key-testnet.txt
