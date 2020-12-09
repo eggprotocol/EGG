@@ -1,4 +1,4 @@
-# EGG
+# EGG Protocol
 
 ## Short Description
 
