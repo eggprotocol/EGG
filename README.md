@@ -6,11 +6,11 @@ This repository contains the EGG Token implementation and it's supplementary sma
 
 ## Maintainer(s)
 
-@dashkoalexander
+@cocoricos
 
 ## Contributing
 
-If you have an idea on how to improve this project, please contact med@cocoricos.io first.
+If you have an idea on how to improve this project, please contact bonjour@cocoricos.io first.
 
 ## License
 
