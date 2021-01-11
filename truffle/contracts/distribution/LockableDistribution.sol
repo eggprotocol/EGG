@@ -21,7 +21,7 @@ contract LockableDistribution is Context, Ownable {
   uint32 private constant LOCK_DURATION = 7776000;
 
   /**
-   * @dev Sets the `lockableToken` token which will be distibuted through
+   * @dev Sets the `lockableToken` token which will be distributed through
    * {LockableDistribution} and which will have a `lock-in` period.
    */
   constructor(ERC20Lockable lockableToken) {
