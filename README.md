@@ -1,16 +1,18 @@
-# EGG
+# EGG Protocol
 
 ## Short Description
 
-This repository contains the EGG Token implementation and it's supplementary smart contracts for lockable token distribution, staking, voting and periodic token burns.
+EGG Protocol is a suite of decentralized finance (DeFi) products focused on creating a simple way to generate rewards on various assets via best-in-class liquidity mining, soft staking, proof of stake (PoS) and airdrops.
+
+This repository contains the EGG Token implementation and its set of smart contracts for a staking, voting and periodic token burns and a lockable token distribution.
 
 ## Maintainer(s)
 
-@dashkoalexander
+@cocoricos
 
 ## Contributing
 
-If you have an idea on how to improve this project, please contact med@cocoricos.io first.
+If you have an idea on how to improve this project, please contact bonjour@cocoricos.io first.
 
 ## License
 
