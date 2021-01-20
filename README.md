@@ -2,7 +2,9 @@
 
 ## Short Description
 
-EGG Protocol is a suite of decentralized finance (DeFi) products focused on creating a simple way to generate rewards on various assets via best-in-class liquidity mining, soft staking, proof of stake (PoS) and airdrops.
+EGG Protocol generates gradual returns by enabling assets escrowing on cross-chain smart contracts.
+
+Cocoricos.io enables frictionless access to decentralized finance (DeFi). Best-in-class proof of liquidity, soft staking, and proof of stake (PoS) assets are grouped together around a single interface.
 
 This repository contains the EGG Token implementation and its set of smart contracts for a staking, voting and periodic token burns and a lockable token distribution.
 
