@@ -2,7 +2,7 @@
 
 ## Short Description
 
-EGG Protocol generates gradual yields by enabling assets escrowing on cross-chain smart contracts.
+EGG Protocol multiplies yield by enabling assets escrowing on cross-chain smart contracts.
 
 Cocoricos.io permits frictionless access to decentralized finance (DeFi). Data-driven due diligence filters proof of liquidity, soft stake and proof of stake (PoS) assets around a single interface.
 
