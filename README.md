@@ -4,7 +4,7 @@
 
 EGG Protocol multiplies yields by enabling assets escrowing on cross-chain smart contracts.
 
-Cocoricos.io permits frictionless access to decentralized finance (DeFi). Data-driven due diligence filters proof of liquidity, soft stake and proof of stake (PoS) assets around a single interface.
+Cocoricos.io permits frictionless access to decentralized finance (DeFi). Data-driven due diligence filters best-in-class staking and liquidity mining around a single interface.
 
 This repository contains the EGG Token implementation and its set of smart contracts for a staking, voting and periodic token burns and a lockable token distribution.
 
